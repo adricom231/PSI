@@ -1,0 +1,22 @@
+.k1{
+    border: 3px dashed blue
+}
+
+.k2{
+    background-color: antiquewhite;
+}
+
+.k3{
+    border: 4px greenyellow dotted;
+}
+
+.k4{
+    color: white;
+    background-color: black;
+    border: 5px dashed yellow;
+}
+
+#ak1{
+    text-align: center;
+    font-size: 120%;
+}
